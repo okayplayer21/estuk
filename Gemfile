@@ -50,3 +50,6 @@ gem 'twitter-bootstrap-rails', :git => 'git://github.com/seyhunak/twitter-bootst
 
 #SimpleForm for sign up and other forms
 gem 'simple_form'
+
+#Adding Devise for user authentication
+gem 'devise'
